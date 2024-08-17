@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "confWuSr58+dlG7g3VNHvkV3PWrFFH8T/2Kgpatu3Xat08kY36MyVxk8mgN/JmWUQUgk1x9hPOgsWNgL+R05Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ganga\\OneDrive\\Desktop\\ASP_MOD6\\ASP_MOD6\\ASP_MOD6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganga\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
